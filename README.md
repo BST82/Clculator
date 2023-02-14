@@ -1,5 +1,5 @@
 # Clculator
-<h1 align="center"><img src="https://user-images.githubusercontent.com/54518332/129297935-b083d087-0ef5-4847-af4f-0859c7ec6080.gif" width="70"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/a0/e5/c5/a0e5c5602434853db7d94889eb65a106.gif" width="150"></h1>
 
 # Screen Shot
 
